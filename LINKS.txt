@@ -1,0 +1,4 @@
+https://codingbat.com/python/Warmup-1
+https://projecteuler.net/archives
+http://www.codeabbey.com/index/task_list
+http://www.pythonchallenge.com/
